@@ -1,6 +1,6 @@
 {
   "name": "vue-fusioncharts",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "description": "A simple and lightweight VueJS component for FusionCharts JavaScript Charting Library",
   "main": "dist/vue-fusioncharts.js",
   "author": "FusionCharts",
